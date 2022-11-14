@@ -1,5 +1,10 @@
 package com.zz;
 
+/**
+ * @Author:zz
+ * @Date: 2022/11/15  4:48
+ * @Version 1.0
+ */
 public class GitTest {
 
     public static void main(String[] args) {
@@ -9,6 +14,7 @@ public class GitTest {
         System.out.println("hello git44");
         System.out.println("master test");
         System.out.println("hot-fix test");
+        System.out.println("push test");
     }
 
 }
